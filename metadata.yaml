@@ -1,0 +1,24 @@
+_repo: Assyrian-Historiography-A-Source-Study_6559
+creator:
+  author:
+    agent_name: Olmstead, A. T. (Albert Ten Eyck)
+    alias: Olmstead, Albert Ten Eyck
+    birthdate: 1880
+    deathdate: 1945
+    gutenberg_agent_id: '2083'
+    url: http://www.gutenberg.org/2009/agents/2083
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assyria -- History -- Sources'
+- !lcsh 'Assyria -- History -- Historiography'
+- !lcc 'DS'
+title: 'Assyrian Historiography: A Source Study'
+url: http://www.gutenberg.org/ebooks/6559
